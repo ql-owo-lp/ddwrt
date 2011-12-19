@@ -1,0 +1,2 @@
+[Adblock Plus 1.2]
+! Used as custom adblock rules
