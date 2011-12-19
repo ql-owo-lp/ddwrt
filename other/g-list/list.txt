@@ -1,0 +1,73 @@
+# GFW list
+
+# Others
+www.tek-tips.com
+www.soleilneon.com
+bitshare.com
+freakshare.com
+www.myeclipseide.com
+keep-tube.com
+freeproject.org
+www.ixiqi.com
+
+# IE Tester
+www.my-debugbar.com
+
+# Facebook
+69.63.0.0/16
+69.192.0.0/16
+69.171.228.40
+96.17.210.110
+184.85.50.110
+184.29.247.206
+
+# Twitter
+199.59.148.0/23
+
+# 草榴 = =
+66.96.216.167
+t66y.com
+i37.tinypic.com
+img51.picleet.com
+img4.picleet.com
+
+# Youtube & Other Google service
+209.85.128.0/17
+
+# Google
+209.85.143.0/25
+
+# RFI
+69.22.137.0/24
+
+# Vimeo
+74.113.233.0/24
+96.16.97.0/24
+
+# Foursquare
+174.129.0.0/16
+
+# Change
+www.change.org
+
+# VPS
+173.0.51.230
+46.137.252.244
+
+# name.com
+manage.name.com
+
+# IMDB.com
+72.21.210.29
+72.21.206.80
+207.171.166.22
+
+# s.gravatar.com
+68.232.44.19
+
+# i2p2
+www.i2p2.de
+forum.i2p2.de
+
+# stackoverflow
+stackoverflow.com
