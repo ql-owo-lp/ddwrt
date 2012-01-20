@@ -2,7 +2,6 @@
 ; Date: Thursday, January 19, 2012
 ; Website: http://bit.ly/proxyswitchy
 
-
 #BEGIN
 [wildcard]
 *://*.0rz.tw
@@ -127,10 +126,9 @@
 *://*blogimg.jp
 *://*.bloglines.com
 *://*rconversation.blogs.com
-*://*blogspot.com
+*://*.blogspot.com/*
 *://*blogtd.net
 *://*.blogtd.org
-*://*.bloomberg.com*pid=20601087
 *://*boardreader.com/thread
 *://*boltbrowser.com/download
 *://*.bot.nu
@@ -1767,8 +1765,6 @@
 !^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bak\.gun-world\.net
 ^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gutteruncensored\.com
 ^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gzone-anime\.info
-^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?appspot\.com
-^https?:\/\/[^\/]+appspot\.com
 ^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\.klip\.me
 !^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?site\.locql\.com
 !^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?download\.syniumsoftware\.com
