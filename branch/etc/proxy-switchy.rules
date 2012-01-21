@@ -326,9 +326,9 @@
 *://*shifeike.blog125.fc2blog.net/*
 *://*video.fdbox.com/*
 *://*feedbooks.mobi/*
-*://*feeds.feedburner.com/*
-*://*feeds2.feedburner.com/chinagfwblog/*
-*://*goo.gl/fb/*
+*://feeds.feedburner.com/*
+*://feeds2.feedburner.com/chinagfwblog/*
+*://goo.gl/*
 *://*feer.com/*
 *://*felixcat.net/*
 *://*.fengzhenghu.com/*
@@ -1341,7 +1341,6 @@
 *://*.googleusercontent.com/*
 *://*.googlepages.com/*
 *://att.newsmth.net/*
-*://goo.gl/*
 *://*.feedsportal.com/*
 *://*.wikipedia.org/*
 
