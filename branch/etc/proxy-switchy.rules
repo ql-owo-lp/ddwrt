@@ -1,6 +1,4 @@
-; Summary: Proxy Switchy! Exported Rule List
-; Date: Thursday, January 19, 2012
-; Website: http://bit.ly/proxyswitchy
+;
 
 #BEGIN
 
@@ -163,7 +161,7 @@
 *://*cclife.org/*
 *://*.ccthere.com/*
 *://*cdjp.org/*
-*://*.cdnews.com.tw/cdnews_site/docDetail.jsp?
+*://*.cdnews.com.tw/cdnews_site/docDetail.jsp?*
 *://*cdp1998.org/*
 *://*cdpweb.org/*
 *://*cdpwu.org/*
@@ -204,7 +202,6 @@
 *://*.chinesepen.org/*
 *://*.chinesetalks.net/ch/*
 *://*.chingcheong.com/*
-*://*chn.chosun.com/servlet/china.ArticleList.ArticleList?code=FFA/*
 *://*christianstudy.com/*
 *://*christusrex.org/www1/sdc/*
 *://*chuizi.net/*
@@ -609,9 +606,9 @@
 *://*mashable.com/*
 *://*mayimayi.com/*
 *://*.md-t.org/*
-*://*.mediafire.com/?/*
+*://*.mediafire.com/?*
 *://*.megaporn.com/*
-*://*.megaupload.com/?d=/*
+*://*.megaupload.com/?d=*
 *://*megavideo.com/*
 *://*meirixiaochao.com/*
 *://*memedia.cn/*
@@ -658,7 +655,7 @@
 *://*.myfreshnet.com/*
 *://*mysinablog.com/*
 *://*.blogs.myspace.com/*
-*://*vids.myspace.com/index.cfm?fuseaction=vids./*
+*://*vids.myspace.com/index.cfm?fuseaction=vids.*
 *://*viewmorepics.myspace.com/*
 *://*old.nabble.com/*
 *://*.nanyangpost.com/*
@@ -978,8 +975,8 @@
 *://*.sugarsync.com/*
 *://*api.supertweet.net/*
 *://*www.supertweet.net/*
-*://*support/youtube/bin/request.py?contact_type=abuse&/*
-*://*/support/youtube/bin/static.py?page=start.cs&/*
+*://*support/youtube/bin/request.py?contact_type=abuse&*
+*://*/support/youtube/bin/static.py?page=start.cs&*
 *://*sysresccd.org/*
 *://*.sytes.net/*
 *://*blog.syx86.com/2009/09/puff/*
