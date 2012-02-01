@@ -3,6 +3,9 @@
 #BEGIN
 
 [wildcard]
+*://*.thepiratebay.*/*
+*://*.piratebay.*/*
+*://*.ipoock.com/*
 *://*.0rz.tw/*
 *://*1-apple.com.tw/*
 *://*.12bet.com/*
