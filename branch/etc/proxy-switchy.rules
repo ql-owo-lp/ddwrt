@@ -3,6 +3,8 @@
 #BEGIN
 
 [wildcard]
+*://t.co/*
+*://change-production.s3.amazonaws.com/*
 *://*.thepiratebay.*/*
 *://*.piratebay.*/*
 *://*.ipoock.com/*
