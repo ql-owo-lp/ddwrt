@@ -3,7 +3,7 @@
 #BEGIN
 
 [wildcard]
-*://s3.amazonzws.com/f.cl.ly/items/*
+*://s3.amazonaws.com/f.cl.ly/items/*
 *://www.bannedbook.org/*
 *://t.co/*
 *://change-production.s3.amazonaws.com/*
