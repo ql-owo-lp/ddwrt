@@ -426,7 +426,6 @@
 *://*guancha.org/*
 *://*.gun-world.net/*
 *://*.gzm.tv/*
-*://*.appspot.com/*
 *://*chinaaid.net/*
 *://*echofon.com/*
 *://*wozy.in/*
@@ -971,7 +970,6 @@
 *://*technorati.com/*
 *://*telecomspace.com/*
 *://*theblemish.com/*
-*://*thepiratebay.org/*
 *://*theqii.info/blog/*
 *://*thespeeder.com/*
 *://*thetrotskymovie.com//*
@@ -1284,15 +1282,15 @@
 *://*.feedsportal.com/*
 
 [regexp]
+^https?://(.+\.)?appspot.com(/.*)?
 ^https?://(.+\.)?ranyunfei\.com(/.*)?
 ^https?://(.+\.)?(the)?piratebay\..+(/.*)?
 ^https?://(.+\.)?change\.org(/.*)?
 ^https?://goo\.gl(/.*)?
 ^https?://(.+\.)?rapidshare\.com(/.*)?
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages)\.com(/.*)?
-^https?://((www|encrypted|ipv6)\.)?google\..+/((search)?\?|.+&)q=.*
-;test
-^https?://(talkgadget|code|plus)\.google\..+(/.*)?
+^https?://((www|encrypted|ipv6)\.)?google\..+/(((search)?\?|.+&)q=.*|(images|extern_js)/).*
+^https?://(talkgadget|code|plus|news|docs|appengine|sites)\.google\..+(/.*)?
 ^https?://(.+\.)?wikipedia.org(/.*)?
 ^https?://(.+\.)?youthwant\.com\.tw(/.*)?
 ^https?://(.+\.)?0to255\.com(/.*)?
@@ -1583,7 +1581,7 @@
 ^https?://(.+\.)?freedomhouse\.org(/.*)?
 ^https?://(.+\.)?freegao\.com(/.*)?
 ^https?://(.+\.)?freelotto\.com(/.*)?
-^https?://(.+\.)?www\.bulbous\.freeserve\.co\.uk(/.*)?
+^https?://(.+\.)?bulbous\.freeserve\.co\.uk(/.*)?
 ^https?://(.+\.)?freessh\.us(/.*)?
 ^https?://(.+\.)?free-ssh\.com(/.*)?
 ^https?://(.+\.)?freewallpaper4\.me(/.*)?
@@ -1699,7 +1697,8 @@
 ^https?://(.+\.)?ilove80\.be(/.*)?
 ^https?://(.+\.)?im\.tv(/.*)?
 ^https?://(.+\.)?ggpht.com(/.*)?
-^https?://(.+\.)?ytimg.com(/.*)?
+^https?://s\.ytimg.com(/.*)?
+^https?://fbcdn-profile-a.akamaihd.net(/.*)?
 ^https?://(.+\.)?imageflea\.com(/.*)?
 ^https?://(.+\.)?imagevenue\.com(/.*)?
 ^https?://(.+\.)?img\.ly(/.*)?
