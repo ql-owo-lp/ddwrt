@@ -1290,6 +1290,7 @@
 ^https?://goo\.gl(/.*)?
 ^https?://(.+\.)?rapidshare\.com(/.*)?
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages)\.com(/.*)?
+^https?://((www|encrypted|ipv6)\.)?google\..+/((search)?\?|.+&)q=.*
 ^https?://(code|plus)\.google\..+(/.*)?
 ^https?://(.+\.)?wikipedia.org(/.*)?
 ^https?://(.+\.)?youthwant\.com\.tw(/.*)?
