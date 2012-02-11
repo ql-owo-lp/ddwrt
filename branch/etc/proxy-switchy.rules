@@ -1306,13 +1306,14 @@
 *://*.youtube-nocookie.com/*
 *://*.youtubecn.com/*
 *://*blog.youxu.info/2010/03/14/west-chamber/*
+*://*.ggpht.com/*
 *://*.ytimg.com/*
 *://*ytht.net/*
 *://*yuanming.net/*
 *://*yx51.net/*
 *://*.zaobao.com/*
 *://*.zaozon.com/*
-*://*www.zaurus.org.uk/*
+*://www.zaurus.org.uk/*
 *://*.zdnet.com.tw/news/software/0,2000085678,20111187,00/*
 *://*.zengjinyan.org/*
 *://*.zhanbin.net/*
@@ -1341,7 +1342,6 @@
 *://*zhengjian/*
 *://*.wikipedia.org/*
 *://*.president.gov.tw/*
-*://*.google.*/*
 *://*.google-analytics.com/*
 *://*.googleapis.com/*
 *://*.googlecode.com/*
