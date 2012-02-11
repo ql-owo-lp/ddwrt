@@ -125,7 +125,6 @@
 *://*blogimg.jp/*
 *://*.bloglines.com/*
 *://*rconversation.blogs.com/*
-*://*.blogspot.com/*
 *://*blogtd.net/*
 *://*.blogtd.org/*
 *://*boardreader.com/thread/*
@@ -412,7 +411,6 @@
 *://*.gongwt.com/*
 *://*.goodreads.com/*
 *://*.goodreaders.com/*
-*://*.googlesile.com/*
 *://*.gopetition.com/*
 *://*grandtrial.org/*
 *://*greatfirewall.biz/*
@@ -429,7 +427,6 @@
 *://*chinaaid.net/*
 *://*echofon.com/*
 *://*wozy.in/*
-*://*.googlevideo.com/*
 *://*h1n1china.org/*
 *://*.hacken.cc/bbs/*
 *://*hahlo.com/*
@@ -1282,15 +1279,14 @@
 *://*.feedsportal.com/*
 
 [regexp]
-^https?://(.+\.)?appspot.com(/.*)?
+^https?://(.+\.)?(app|blog)spot.com(/.*)?
 ^https?://(.+\.)?ranyunfei\.com(/.*)?
 ^https?://(.+\.)?(the)?piratebay\..+(/.*)?
 ^https?://(.+\.)?change\.org(/.*)?
 ^https?://goo\.gl(/.*)?
 ^https?://(.+\.)?rapidshare\.com(/.*)?
-^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages)\.com(/.*)?
+^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?
 ^https?://((www|encrypted|ipv6)\.)?google\..+/(((search)?\?|.+&)q=.*|(images|extern_js)/).*
-^https?://(talkgadget|code|plus|news|docs|appengine|sites)\.google\..+(/.*)?
 ^https?://(.+\.)?wikipedia.org(/.*)?
 ^https?://(.+\.)?youthwant\.com\.tw(/.*)?
 ^https?://(.+\.)?0to255\.com(/.*)?
@@ -1697,7 +1693,7 @@
 ^https?://(.+\.)?ilove80\.be(/.*)?
 ^https?://(.+\.)?im\.tv(/.*)?
 ^https?://(.+\.)?ggpht.com(/.*)?
-^https?://s\.ytimg.com(/.*)?
+^https?://(.+\.)?ytimg.com(/.*)?
 ^https?://fbcdn-profile-a.akamaihd.net(/.*)?
 ^https?://(.+\.)?imageflea\.com(/.*)?
 ^https?://(.+\.)?imagevenue\.com(/.*)?
