@@ -3,7 +3,8 @@
 #BEGIN
 
 [wildcard]
-*://s3.amazonaws.com/f.cl.ly/items/*
+*://s3.amazonaws.com/f.cl.ly/*
+*://s3.amazonaws.com/zootool.previews/*
 *://www.bannedbook.org/*
 *://t.co/*
 *://change-production.s3.amazonaws.com/*
@@ -1939,7 +1940,7 @@
 ^https?://(.+\.)?qtweeter\.com(/.*)?
 ^https?://(.+\.)?qtrac\.eu(/.*)?
 ^https?://(.+\.)?quadedge\.com(/.*)?
-^https?://(.+\.)?www\.getyouram\.com(/.*)?
+^https?://(.+\.)?getyouram\.com(/.*)?
 ^https?://(.+\.)?hiitch\.com(/.*)?
 ^https?://(.+\.)?radiovaticana\.org(/.*)?
 ^https?://(.+\.)?ranyunfei\.com(/.*)?
@@ -1992,7 +1993,7 @@
 ^https?://(.+\.)?so-news\.com(/.*)?
 ^https?://(.+\.)?soc\.mil/(/.*)?
 ^https?://(.+\.)?sogclub\.com(/.*)?
-^https?://(.+\.)?www\.somee\.com(/.*)?
+^https?://(.+\.)?somee\.com(/.*)?
 ^https?://(.+\.)?sorting-algorithms\.com(/.*)?
 ^https?://(.+\.)?soup\.io/(/.*)?
 ^https?://(.+\.)?snaptu\.com(/.*)?
@@ -2151,7 +2152,7 @@
 ^https?://(.+\.)?thechangelog\.com(/.*)?
 ^https?://(.+\.)?theinternetwishlist\.com(/.*)?
 ^https?://(.+\.)?thisiswhyyouarefat\.com(/.*)?
-^https?://(.+\.)?www\.tiffanyarment\.com(/.*)?
+^https?://(.+\.)?tiffanyarment\.com(/.*)?
 ^https?://(.+\.)?tjholowaychuk\.com(/.*)?
 ^https?://(.+\.)?tomsc\.com(/.*)?
 ^https?://(.+\.)?blog\.topify\.com(/.*)?
