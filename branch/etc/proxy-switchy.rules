@@ -1280,6 +1280,7 @@
 *://*.feedsportal.com/*
 *://*.skype.com/*
 *://ninjakiwi-cdn.s3.amazonaws.com/*
+*://olarila.com/*
 
 [regexp]
 ^https?://(.+\.)?(app|blog)spot.com(/.*)?
@@ -1288,7 +1289,7 @@
 ^https?://(.+\.)?change\.org(/.*)?
 ^https?://goo\.gl(/.*)?
 ^https?://(.+\.)?rapidshare\.com(/.*)?
-^https?://www\.google\.com/(?!voice).+/.*
+^https?://www\.google\.com/(?!voice)[^/]+/.*
 ^https?://((?!music|www|mail|plus).+\.)?google\..+(/.*)?
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?
 ^https?://((www|encrypted|ipv6)\.)?google\..+/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?
