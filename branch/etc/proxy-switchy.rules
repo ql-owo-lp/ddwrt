@@ -1280,6 +1280,7 @@
 *://*.feedsportal.com/*
 *://*.skype.com/*
 *://ninjakiwi-cdn.s3.amazonaws.com/*
+*://*.dw.de/*
 *://olarila.com/*
 
 [regexp]
