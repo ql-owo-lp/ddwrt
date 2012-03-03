@@ -1285,6 +1285,7 @@
 *://olarila.com/*
 
 [regexp]
+^https?://(.+\.)?huaren.us(/.*)?
 ^https?://(.+\.)?(app|blog)spot.com(/.*)?
 ^https?://(.+\.)?ranyunfei\.com(/.*)?
 ^https?://(.+\.)?(the)?piratebay\..+(/.*)?
