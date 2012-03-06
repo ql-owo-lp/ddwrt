@@ -1285,10 +1285,12 @@
 *://olarila.com/*
 
 [regexp]
-^https?://(.+\.)?huaren.us(/.*)?
-^https?://(.+\.)?(app|blog)spot.com(/.*)?
+^https?://(.+\.)?scribdassets\.com(/.*)?
+^https?://(.+\.)?xmind\.net(/.*)?
+^https?://(.+\.)?huaren\.us(/.*)?
+^https?://(.+\.)?(app|blog)spot\.com(/.*)?
 ^https?://(.+\.)?ranyunfei\.com(/.*)?
-^https?://(.+\.)?(the)?piratebay\..+(/.*)?
+^https?://(.+\.)?(the)?piratebay\.[\w.]+\w+(/.*)?
 ^https?://(.+\.)?change\.org(/.*)?
 ^https?://goo\.gl(/.*)?
 ^https?://(.+\.)?rapidshare\.com(/.*)?
