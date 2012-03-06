@@ -1283,6 +1283,7 @@
 *://ninjakiwi-cdn.s3.amazonaws.com/*
 *://*.dw.de/*
 *://olarila.com/*
+*://xmindshare.s3.amazonaws.com/*
 
 [regexp]
 ^https?://(.+\.)?scribdassets\.com(/.*)?
