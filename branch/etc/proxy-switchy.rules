@@ -1284,6 +1284,9 @@
 *://*.dw.de/*
 *://olarila.com/*
 *://xmindshare.s3.amazonaws.com/*
+*://sequoia.s3.amazonaws.com/*
+*://*.yyv.co/*
+*://*.tinybucks.net/*
 
 [regexp]
 ^https?://(.+\.)?scribdassets\.com(/.*)?
