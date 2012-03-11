@@ -3,8 +3,6 @@
 #BEGIN
 
 [wildcard]
-*://s3.amazonaws.com/f.cl.ly/*
-*://s3.amazonaws.com/zootool.previews/*
 *://www.bannedbook.org/*
 *://t.co/*
 *://change-production.s3.amazonaws.com/*
@@ -1280,15 +1278,13 @@
 *://att.newsmth.net/*
 *://*.feedsportal.com/*
 *://*.skype.com/*
-*://ninjakiwi-cdn.s3.amazonaws.com/*
 *://*.dw.de/*
 *://olarila.com/*
-*://xmindshare.s3.amazonaws.com/*
-*://sequoia.s3.amazonaws.com/*
 *://*.yyv.co/*
 *://*.tinybucks.net/*
 
 [regexp]
+^https?://(.+\.)?s3.amazonaws.com/.+
 ^https?://(.+\.)?scribdassets\.com(/.*)?
 ^https?://(.+\.)?xmind\.net(/.*)?
 ^https?://(.+\.)?huaren\.us(/.*)?
