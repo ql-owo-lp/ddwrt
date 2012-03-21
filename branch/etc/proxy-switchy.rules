@@ -1283,6 +1283,7 @@
 *://*.tinybucks.net/*
 
 [regexp]
+^https?://(.+\.)?freenetproject\.org/.+
 ^https?://(.+\.)?s3.amazonaws.com/.+
 ^https?://(.+\.)?scribdassets\.com(/.*)?
 ^https?://(.+\.)?xmind\.net(/.*)?
