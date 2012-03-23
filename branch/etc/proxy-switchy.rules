@@ -1283,6 +1283,7 @@
 *://*.tinybucks.net/*
 
 [regexp]
+^https?://(.+\.)?github\.com/.+
 ^https?://(.+\.)?omegle\.com/.+
 ^https?://(.+\.)?freenetproject\.org/.+
 ^https?://(.+\.)?s3.amazonaws.com/.+
