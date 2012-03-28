@@ -1283,6 +1283,10 @@
 *://*.tinybucks.net/*
 
 [regexp]
+^https?://(.+\.)?disconnect\.me/.+
+^https?://(.+\.)?onshow\.net/.+
+^https?://(.+\.)?imageshost\.ru/.+
+^https?://(.+\.)?imagetwist\.com/.+
 ^https?://(.+\.)?github\.com/.+
 ^https?://(.+\.)?omegle\.com/.+
 ^https?://(.+\.)?freenetproject\.org/.+
