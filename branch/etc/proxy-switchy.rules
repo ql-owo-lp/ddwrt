@@ -1281,6 +1281,7 @@
 *://olarila.com/*
 *://*.yyv.co/*
 *://*.tinybucks.net/*
+*://ssl.gstatic.com/*
 
 [regexp]
 ^https?://(.+\.)?disconnect\.me/.+
