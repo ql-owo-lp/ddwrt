@@ -1281,10 +1281,10 @@
 *://olarila.com/*
 *://*.yyv.co/*
 *://*.tinybucks.net/*
-*://ssl.gstatic.com/*
 
 [regexp]
 ^https?://(.+\.)?disconnect\.me/.+
+^https?://(.+\.)?gstatic\.com/.+
 ^https?://(.+\.)?onshow\.net/.+
 ^https?://(.+\.)?imageshost\.ru/.+
 ^https?://(.+\.)?imagetwist\.com/.+
