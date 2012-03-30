@@ -1301,8 +1301,9 @@
 ^https?://(.+\.)?change\.org(/.*)?
 ^https?://goo\.gl(/.*)?
 ^https?://(.+\.)?rapidshare\.com(/.*)?
-^https?://www\.google\.com/(?!voice)[^/]+/.*
-^https?://((?!www|mail).+\.)?google\..+(/.*)?
+^https?://www\.google\.com/(?!voice|reader)[^/]+/.*
+^https://www\.google\.com/reader(/.*)?
+^https?://((?!www|mail|reader).+\.)?google\..+(/.*)?
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?
 ^https?://((www|encrypted|ipv6)\.)?google\..+/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?
 ^https?://(.+\.)?wikipedia.org(/.*)?
