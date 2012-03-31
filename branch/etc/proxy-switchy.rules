@@ -1304,7 +1304,7 @@
 ^https?://(.+\.)?rapidshare\.com(/.*)?$
 ^https?://www\.google\.com/(?!voice|reader)[^/]+/.*
 ^https://www\.google\.com/reader(/.*)?$
-^https?://((?!www|mail|reader)[.a-z]+)?google\.[.a-z]+[a-z](/.*)?$
+^https?://((?!www|mail|reader|translate)[.a-z]+)?google\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?$
 ^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
 ^https?://(.+\.)?wikipedia\.org(/.*)?$
@@ -1448,7 +1448,6 @@
 ^https?://(.+\.)?ccc\.de(/.*)?$
 ^https?://(.+\.)?ccdtr\.org(/.*)?$
 ^https?://(.+\.)?cdjp\.org(/.*)?$
-
 ^https?://(.+\.)?cdp1998\.org(/.*)?$
 ^https?://(.+\.)?cdpweb\.org(/.*)?$
 ^https?://(.+\.)?cdpwu\.org(/.*)?$
@@ -1523,13 +1522,11 @@
 ^https?://(.+\.)?dalianmeng\.org(/.*)?$
 ^https?://(.+\.)?danke4china\.net(/.*)?$
 ^https?://(.+\.)?daxa\.cn(/.*)?$
-
 ^https?://(.+\.)?de-sci\.org(/.*)?$
 ^https?://(.+\.)?www\.debugmode\.com(/.*)?$
 ^https?://(.+\.)?delcamp\.net(/.*)?$
 ^https?://(.+\.)?democrats\.org(/.*)?$
 ^https?://(.+\.)?desc\.se(/.*)?$
-
 ^https?://(.+\.)?deutsche-welle\.de(/.*)?$
 ^https?://(.+\.)?dev102\.com(/.*)?$
 ^https?://(.+\.)?devio\.us(/.*)?$
@@ -1706,7 +1703,6 @@
 ^https?://(.+\.)?hutianyi\.net(/.*)?$
 ^https?://(.+\.)?hwinfo\.com(/.*)?$
 ^https?://(.+\.)?i2p2\.de(/.*)?$
-
 ^https?://(.+\.)?i2runner\.com(/.*)?$
 ^https?://(.+\.)?iblogserv-f\.net(/.*)?$
 ^https?://(.+\.)?icl-fi\.org(/.*)?$
@@ -1827,7 +1823,6 @@
 ^https?://(.+\.)?moviefap\.com(/.*)?$
 ^https?://(.+\.)?www\.moztw\.org(/.*)?$
 ^https?://(.+\.)?mp(/.*)?$
-
 ^https?://(.+\.)?mpettis\.com(/.*)?$
 ^https?://(.+\.)?mrtweet\.com(/.*)?$
 ^https?://(.+\.)?mthruf\.com(/.*)?$
@@ -1913,7 +1908,6 @@
 ^https?://(.+\.)?img.*\.picturedip\.com(/.*)?$
 ^https?://(.+\.)?pin6\.com(/.*)?$
 ^https?://(.+\.)?ping\.fm(/.*)?$
-
 ^https?://(.+\.)?pinoy-n\.com(/.*)?$
 ^https?://(.+\.)?pixelqi\.com(/.*)?$
 ^https?://(.+\.)?css\.pixnet\.in(/.*)?$
@@ -2229,7 +2223,6 @@
 ^https?://(.+\.)?twiffo\.com(/.*)?$
 ^https?://(.+\.)?twindexx\.com(/.*)?$
 ^https?://(.+\.)?twip\.me(/.*)?$
-
 ^https?://(.+\.)?twitcause\.com(/.*)?$
 ^https?://(.+\.)?twitgether\.com(/.*)?$
 ^https?://(.+\.)?twiggit\.org(/.*)?$
@@ -2365,7 +2358,6 @@
 ^https?://(.+\.)?zhreader\.com(/.*)?$
 ^https?://(.+\.)?zkaip\.com(/.*)?$
 ^https?://(.+\.)?zlib\.net(/.*)?$
-
 ^https?://(.+\.)?zonaeuropa\.com(/.*)?$
 ^https?://(.+\.)?zuihulu\.net(/.*)?$
 ^https?://(.+\.)?zuo\.la(/.*)?$
