@@ -1306,7 +1306,7 @@
 ^https://www\.google\.com/reader(/.*)?$
 ^https?://((?!www|mail|reader|translate)[.a-z]+)?google\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?$
-^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
+^https?://((www|encrypted(-tbn[0-9]+)?|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
 ^https?://(.+\.)?wikipedia\.org(/.*)?$
 ^https?://(.+\.)?youthwant\.com\.tw(/.*)?$
 ^https?://(.+\.)?0to255\.com(/.*)?$
