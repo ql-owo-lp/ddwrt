@@ -4,8 +4,6 @@
 
 [wildcard]
 *://www.bannedbook.org/*
-*://t.co/*
-*://change-production.s3.amazonaws.com/*
 *://*.ipoock.com/*
 *://*.0rz.tw/*
 *://*1-apple.com.tw/*
@@ -1284,6 +1282,8 @@
 *://*.tinybucks.net/*
 
 [regexp]
+^https?://t.co/[a-zA-Z]+$
+^https?://(.+\.)?vimeocdn\.com(/.*)?$
 ^https?://(.+\.)?disconnect\.me(/.*)?$
 ^https?://(.+\.)?gstatic\.com(/.*)?$
 ^https?://(.+\.)?onshow\.net(/.*)?$
