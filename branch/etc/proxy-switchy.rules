@@ -1113,7 +1113,6 @@
 *://*www.voy.com/*
 *://*lists.w3.org/archives/public/*
 *://*.jyzj.waqn.com/*
-*://**://jyzj.waqn.com/*
 *://*.wahas.com/*
 *://*.waigaobu.com/*
 *://*waikeung.org/php_wind/*
@@ -2242,7 +2241,7 @@
 ^https?://(.+\.)?tweepguide\.com(/.*)?$
 ^https?://(.+\.)?turbotwitter\.com(/.*)?$
 ^https?://(.+\.)?twitvid\.com(/.*)?$
-^https?://(.+\.)?twitter\..+(/.*)?$
+^https?://(.+\.)?twitter\.[a-z.]+[a-z](/.*)?$
 ^https?://(.+\.)?twttr\.com(/.*)?$
 ^https?://(.+\.)?twittercounter\.com(/.*)?$
 ^https?://(.+\.)?twittergadget\.com(/.*)?$
