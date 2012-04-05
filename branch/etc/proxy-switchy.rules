@@ -1280,6 +1280,7 @@
 *://*.yyv.co/*
 *://ifttt.com/*
 *://*.tinybucks.net/*
+*://*.mzstatic.com/*
 
 [regexp]
 ^https?://t.co/[a-zA-Z]+$
@@ -1301,12 +1302,13 @@
 ^https?://(.+\.)?(the)?piratebay\.[.a-z]+[a-z]+(/.*)?$
 ^https?://(.+\.)?change\.org(/.*)?$
 ^https?://goo\.gl(/.*)?$
+^https?://api\.pinterest\.com(/.*)?$
 ^https?://(.+\.)?rapidshare\.com(/.*)?$
 ^https?://www\.google\.com/(?!voice|reader)[^/]+/.*
 ^https://www\.google\.com/reader(/.*)?$
-^https?://((?!www|mail|reader|translate)[.a-z]+)?google\.[.a-z]+[a-z](/.*)?$
+^https?://((?!www|mail|reader|translate).+)?google\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?$
-^https?://((www|encrypted(-tbn[0-9]+)?|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
+^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
 ^https?://(.+\.)?wikipedia\.org(/.*)?$
 ^https?://(.+\.)?youthwant\.com\.tw(/.*)?$
 ^https?://(.+\.)?0to255\.com(/.*)?$
