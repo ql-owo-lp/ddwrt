@@ -1284,7 +1284,7 @@
 [regexp]
 ^https?://(.+\.)?ishr\.org(/.*)?$
 ^https?://(.+\.)?igfw\.net(/.*)?$
-^https?://(.+\.)?freebase\.com(/.*)?$
+^https?://(.+\.)?freebase(libs)?\.com(/.*)?$
 ^https?://cache\.daylife\.com(/.*)?$
 ^https?://(.+\.)?springpadit\.com(/.*)?$
 ^https?://t.co/[a-zA-Z]+$
