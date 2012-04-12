@@ -1286,7 +1286,7 @@
 ^https?://(.+\.)?igfw\.net(/.*)?$
 ^https?://(.+\.)?freebase(libs)?\.com(/.*)?$
 ^https?://cache\.daylife\.com(/.*)?$
-^https?://(.+\.)?springpadit\.com(/.*)?$
+^https?://(.+\.)?springpad(it)?\.com(/.*)?$
 ^https?://t.co/[a-zA-Z]+$
 ^https?://(.+\.)?vimeocdn\.com(/.*)?$
 ^https?://(.+\.)?disconnect\.me(/.*)?$
