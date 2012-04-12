@@ -1283,6 +1283,9 @@
 
 [regexp]
 ^https?://(.+\.)?ishr\.org(/.*)?$
+^https?://(.+\.)?igfw\.net(/.*)?$
+^https?://(.+\.)?freebase\.com(/.*)?$
+^https?://cache\.daylife\.com(/.*)?$
 ^https?://(.+\.)?springpadit\.com(/.*)?$
 ^https?://t.co/[a-zA-Z]+$
 ^https?://(.+\.)?vimeocdn\.com(/.*)?$
