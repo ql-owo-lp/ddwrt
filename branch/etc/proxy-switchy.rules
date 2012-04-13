@@ -1282,6 +1282,7 @@
 *://*.mzstatic.com/*
 
 [regexp]
+^https?://(.+\.)?quora.com(/.*)?$
 ^https?://demos\.9lessons\.info(/.*)?$
 ^https?://(.+\.)?pinterest\.com(/.*)?$
 ^https?://(.+\.)?ishr\.org(/.*)?$
