@@ -2068,7 +2068,6 @@
 ^https?://(.+\.)?techlifeweb\.com(/.*)?$
 ^https?://(.+\.)?techparaiso\.com(/.*)?$
 ^https?://(.+\.)?teck\.in(/.*)?$
-
 ^https?://(.+\.)?theappleblog\.com(/.*)?$
 ^https?://(.+\.)?theatrum-belli\.com(/.*)?$
 ^https?://(.+\.)?thebcomplex\.com(/.*)?$
@@ -2271,8 +2270,6 @@
 ^https?://(.+\.)?blog\.palm\.com(/.*)?$
 ^https?://(.+\.)?blogs\.tampabay\.com(/.*)?$
 ^https?://(.+\.)?contests\.twilio\.com(/.*)?$
-^https?://(.+\.)?tuite\.im(/.*)?$
-
 ^https?://(.+\.)?ultravpn\.fr(/.*)?$
 ^https?://(.+\.)?unholyknight\.com(/.*)?$
 ^https?://(.+\.)?unknownspace\.org(/.*)?$
@@ -2313,7 +2310,6 @@
 ^https?://(.+\.)?wexiaobo\.org(/.*)?$
 ^https?://(.+\.)?wezone\.net(/.*)?$
 ^https?://(.+\.)?wforum\.com(/.*)?$
-
 ^https?://(.+\.)?whatblocked\.com(/.*)?$
 ^https?://(.+\.)?whyx\.org(/.*)?$
 ^https?://(.+\.)?213\.251\.145\.96(/.*)?$
