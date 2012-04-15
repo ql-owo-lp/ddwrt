@@ -1669,7 +1669,7 @@
 ^https?://(.+\.)?helloqueer\.com(/.*)?$
 ^https?://(.+\.)?hellotxt\.com(/.*)?$
 ^https?://(.+\.)?htxt\.it(/.*)?$
-
+^https?://(.+\.)?min\.us(/.*)?$
 ^https?://(.+\.)?helpeachpeople\.com(/.*)?$
 ^https?://(.+\.)?heroku\.com(/.*)?$
 ^https?://(.+\.)?awardwinningfjords\.com(/.*)?$
@@ -1856,7 +1856,7 @@
 ^https?://(.+\.)?navicat\.com(/.*)?$
 ^https?://(.+\.)?nakido\.com(/.*)?$
 ^https?://(.+\.)?ncn\.org(/.*)?$
-
+^https?://(.+\.)?minus\.com(/.*)?$
 ^https?://(.+\.)?etools\.ncol\.com(/.*)?$
 ^https?://(.+\.)?nekoslovakia\.net(/.*)?$
 ^https?://(.+\.)?newchen\.com(/.*)?$
@@ -1988,7 +1988,7 @@
 ^https?://(.+\.)?ronjoneswriter\.com(/.*)?$
 ^https?://(.+\.)?roosong\.cn(/.*)?$
 ^https?://(.+\.)?rsf\.org(/.*)?$
-
+^https?://(.+\.)?cloudfront\.net(/.*)?$
 ^https?://(.+\.)?rsf-chinese\.org(/.*)?$
 ^https?://(.+\.)?rssmeme\.com(/.*)?$
 ^https?://(.+\.)?rxhj\.net(/.*)?$
