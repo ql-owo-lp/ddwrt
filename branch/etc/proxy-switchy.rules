@@ -1996,7 +1996,7 @@
 ^https?://(.+\.)?s1heng\.com(/.*)?$
 ^https?://(.+\.)?sacom\.hk(/.*)?$
 ^https?://(.+\.)?saiq\.me(/.*)?$
-
+^https?://(.+\.)?tmz\.com(/.*)?$
 ^https?://(.+\.)?salvation\.org\.hk(/.*)?$
 ^https?://(.+\.)?sankaizok\.com(/.*)?$
 ^https?://(.+\.)?say2\.info(/.*)?$
