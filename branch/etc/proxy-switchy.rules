@@ -1282,6 +1282,7 @@
 *://*.mzstatic.com/*
 
 [regexp]
+^https?://(.+\.)?(getpocket|readitlater)\.io(/.*)?$
 ^https?://(.+\.)?imm\.io(/.*)?$
 ^https?://(.+\.)?imagebam\.com(/.*)?$
 ^https?://(.+\.)?uyl\.me(/.*)?$
