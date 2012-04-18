@@ -1282,6 +1282,9 @@
 *://*.mzstatic.com/*
 
 [regexp]
+^https?://(.+\.)?imm\.io(/.*)?$
+^https?://(.+\.)?imagebam\.com(/.*)?$
+^https?://(.+\.)?uyl\.me\(/.*)?$
 ^https?://(.+\.)?imgchili.com(/.*)?$
 ^https?://(.+\.)?quora.com(/.*)?$
 ^https?://demos\.9lessons\.info(/.*)?$
