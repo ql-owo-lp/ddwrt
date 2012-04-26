@@ -1282,6 +1282,10 @@
 *://*.mzstatic.com/*
 
 [regexp]
+^https?://(.+\.)?imagehyper\.com(/.*)?$
+^https?://(.+\.)?shareimage\.org(/.*)?$
+^https?://(.+\.)?javelite\.com(/.*)?$
+^https?://(.+\.)?photo\.xuite\.net(/.*)?$
 ^https?://(.+\.)?(getpocket|readitlater)\.io(/.*)?$
 ^https?://(.+\.)?imm\.io(/.*)?$
 ^https?://(.+\.)?imagebam\.com(/.*)?$
