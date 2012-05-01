@@ -2359,7 +2359,7 @@
 ^https?://(.+\.)?youjizz\.com(/.*)?$
 ^https?://(.+\.)?youpai\.org(/.*)?$
 ^https?://(.+\.)?yousendit\.com(/.*)?$
-^https?://(.+\.)?youtube(-nocookie)?\.com(/.*)?$
+^https?://(.+\.)?youtube(-nocookie)?\.([a-z][.a-z]+[a-z])(/.*)?$
 ^https?://youtu\.be(/.*)?$
 ^https?://(.+\.)?yunchao\.net(/.*)?$
 ^https?://(.+\.)?yvesgeleyn\.com(/.*)?$
