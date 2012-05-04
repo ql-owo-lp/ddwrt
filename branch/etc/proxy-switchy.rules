@@ -1282,6 +1282,12 @@
 *://*.mzstatic.com/*
 
 [regexp]
+^https?://html5demos\.com(/.*)?$
+^https?://(.+\.)?tutorialspoint\.com(/.*)?$
+^https?://(.+\.)?uniquewarez\.com(/.*)?$
+^https?://(.+\.)?zonghexinwen\.net(/.*)?$
+^https?://(.+\.)?gamme\.com\.tw(/.*)?$
+^https?://(.+\.)?isunaffairs\.com(/.*)?$
 ^https?://(.+\.)?imagehyper\.com(/.*)?$
 ^https?://(.+\.)?shareimage\.org(/.*)?$
 ^https?://(.+\.)?javelite\.com(/.*)?$
