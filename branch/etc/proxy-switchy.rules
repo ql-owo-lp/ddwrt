@@ -1316,6 +1316,9 @@
 ^https?://(.+\.)?omegle\.com(/.*)?$
 ^https?://(.+\.)?freenetproject\.org(/.*)?$
 ^https?://(.+\.)?s3.amazonaws.com(/.*)?$
+^https?://(.+\.)?poco\.cn(/.*)?$
+^https?://(.+\.)?brightcove\.com(/.*)?$
+^https?://(.+\.)?freshtutorial\.com(/.*)?$
 ^https?://(.+\.)?scribdassets\.com(/.*)?$
 ^https?://(.+\.)?xmind\.net(/.*)?$
 ^https?://(.+\.)?huaren\.us(/.*)?$
@@ -1328,6 +1331,7 @@
 ^https?://(.+\.)?rapidshare\.com(/.*)?$
 ^https?://www\.google\.com/(?!voice|reader)[^/]+/.*
 ^https://www\.google\.com/reader(/.*)?$
+^http://www\.google\.com/reader/view/feed/.+$
 ^https?://((?!www|reader|mail|translate).+\.)?google\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?$
 ^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
