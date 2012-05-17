@@ -1519,7 +1519,7 @@
 ^https?://(.+\.)?cmule\.com(/.*)?$
 ^https?://(.+\.)?cna\.com\.tw(/.*)?$
 ^https?://(.+\.)?cnd\.org(/.*)?$
-
+^https?://webstore\.limexgames\.net(/.*)?$
 ^https?://(.+\.)?cochina\.org(/.*)?$
 ^https?://(.+\.)?comefromchina\.com(/.*)?$
 ^https?://(.+\.)?conoyo\.com(/.*)?$
@@ -1529,7 +1529,7 @@
 ^https?://(.+\.)?couchdbwiki\.com(/.*)?$
 ^https?://(.+\.)?cotweet\.com(/.*)?$
 ^https?://(.+\.)?cpj\.org(/.*)?$
-
+^https?://(.+\.)?twimg\.com(/.*)?$
 ^https?://(.+\.)?crackle\.com(/.*)?$
 ^https?://(.+\.)?creaders\.net(/.*)?$
 ^https?://(.+\.)?crossthewall\.net(/.*)?$
