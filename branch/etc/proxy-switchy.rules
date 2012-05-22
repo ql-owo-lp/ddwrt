@@ -1353,7 +1353,6 @@
 ^https?://(.+\.)?info\.51\.ca(/.*)?$
 ^https?://(.+\.)?6-4\.net(/.*)?$
 ^https?://(.+\.)?6park\.com(/.*)?$
-^https?://(.+\.)?www\.6v6dota\.com(/.*)?$
 ^https?://(.+\.)?7capture\.com(/.*)?$
 ^https?://(.+\.)?8000\.com(/.*)?$
 ^https?://(.+\.)?89-64\.org(/.*)?$
@@ -1551,7 +1550,7 @@
 ^https?://(.+\.)?danke4china\.net(/.*)?$
 ^https?://(.+\.)?daxa\.cn(/.*)?$
 ^https?://(.+\.)?de-sci\.org(/.*)?$
-^https?://(.+\.)?www\.debugmode\.com(/.*)?$
+^https?://(.+\.)?debugmode\.com(/.*)?$
 ^https?://(.+\.)?delcamp\.net(/.*)?$
 ^https?://(.+\.)?democrats\.org(/.*)?$
 ^https?://(.+\.)?desc\.se(/.*)?$
@@ -1666,11 +1665,10 @@
 ^https?://(.+\.)?goofind\.com(/.*)?$
 ^https?://(.+\.)?gopetition\.com(/.*)?$
 ^https?://(.+\.)?gotw\.ca(/.*)?$
-
 ^https?://(.+\.)?graphis\.ne\.jp(/.*)?$
 ^https?://(.+\.)?greatfirewallofchina\.net(/.*)?$
 ^https?://(.+\.)?greatfirewallofchina\.org(/.*)?$
-^https?://(.+\.)?www\.greenpois0n\.com(/.*)?$
+^https?://(.+\.)?greenpois0n\.com(/.*)?$
 ^https?://(.+\.)?greenvpn\.net(/.*)?$
 ^https?://(.+\.)?gtkforums\.com(/.*)?$
 ^https?://(.+\.)?gtricks\.com(/.*)?$
@@ -1801,7 +1799,7 @@
 ^https?://(.+\.)?liberal\.org\.hk(/.*)?$
 ^https?://(.+\.)?api\.linksalpha\.com(/.*)?$
 ^https?://(.+\.)?apidocs\.linksalpha\.com(/.*)?$
-^https?://(.+\.)?www\.linksalpha\.com(/.*)?$
+^https?://(.+\.)?linksalpha\.com(/.*)?$
 ^https?://(.+\.)?help\.linksalpha\.com(/.*)?$
 ^https?://(.+\.)?linux-engineer\.net(/.*)?$
 ^https?://(.+\.)?linuxconfig\.org(/.*)?$
@@ -1864,7 +1862,7 @@
 ^https?://(.+\.)?myaudiocast\.com(/.*)?$
 ^https?://(.+\.)?bbs\.mychat\.to(/.*)?$
 ^https?://(.+\.)?mychinamyhome\.com(/.*)?$
-^https?://(.+\.)?www\.mycould\.com(/.*)?$
+^https?://(.+\.)?mycould\.com(/.*)?$
 ^https?://(.+\.)?myeclipseide\.com(/.*)?$
 ^https?://(.+\.)?myforum\.com\.hk(/.*)?$
 ^https?://(.+\.)?myforum\.com\.uk(/.*)?$
@@ -1943,7 +1941,7 @@
 ^https?://(.+\.)?css\.pixnet\.in(/.*)?$
 ^https?://(.+\.)?pixnet\.net(/.*)?$
 ^https?://(.+\.)?placemix\.com(/.*)?$
-^https?://(.+\.)?www\.playboy\.com(/.*)?$
+^https?://(.+\.)?playboy\.com(/.*)?$
 ^https?://(.+\.)?m\.plixi\.com(/.*)?$
 ^https?://(.+\.)?plurk\.com(/.*)?$
 ^https?://(.+\.)?po2b\.com(/.*)?$
@@ -1953,7 +1951,7 @@
 ^https?://(.+\.)?popyard\.org(/.*)?$
 ^https?://(.+\.)?pornrapidshare\.com(/.*)?$
 ^https?://(.+\.)?powercx\.com(/.*)?$
-^https?://(.+\.)?www\.powerpointninja\.com(/.*)?$
+^https?://(.+\.)?powerpointninja\.com(/.*)?$
 ^https?://(.+\.)?post\.anyu\.org(/.*)?$
 ^https?://(.+\.)?bralio\.com(/.*)?$
 ^https?://(.+\.)?calebelston\.com(/.*)?$
@@ -1965,7 +1963,7 @@
 ^https?://(.+\.)?sogrady\.me(/.*)?$
 ^https?://(.+\.)?vatn\.org(/.*)?$
 ^https?://(.+\.)?veempiire\.com(/.*)?$
-^https?://(.+\.)?www\.vegorpedersen\.com(/.*)?$
+^https?://(.+\.)?vegorpedersen\.com(/.*)?$
 ^https?://(.+\.)?ventureswell\.com(/.*)?$
 ^https?://(.+\.)?webfee\.tk(/.*)?$
 ^https?://(.+\.)?whereiswerner\.com(/.*)?$
@@ -2228,7 +2226,7 @@
 ^https?://(.+\.)?xuzhuoer\.com(/.*)?$
 ^https?://(.+\.)?bd\.zhe\.la(/.*)?$
 ^https?://(.+\.)?cocoa\.zonble\.net(/.*)?$
-^https?://(.+\.)?www\.tv\.com(/.*)?$
+^https?://(.+\.)?tv\.com(/.*)?$
 ^https?://(.+\.)?tv-intros\.com(/.*)?$
 ^https?://(.+\.)?tvunetworks\.com(/.*)?$
 ^https?://(.+\.)?twapperkeeper\.com(/.*)?$
@@ -2285,7 +2283,7 @@
 ^https?://(.+\.)?typepad\.com(/.*)?$
 ^https?://(.+\.)?blog\.expofutures\.com(/.*)?$
 ^https?://(.+\.)?legaltech\.law\.com(/.*)?$
-^https?://(.+\.)?www\.loiclemeur\.com(/.*)?$
+^https?://(.+\.)?loiclemeur\.com(/.*)?$
 ^https?://(.+\.)?latimesblogs\.latimes\.com(/.*)?$
 ^https?://(.+\.)?blog\.palm\.com(/.*)?$
 ^https?://(.+\.)?blogs\.tampabay\.com(/.*)?$
@@ -2313,10 +2311,10 @@
 ^https?://(.+\.)?vinniev\.com(/.*)?$
 ^https?://(.+\.)?vmixcore\.com(/.*)?$
 ^https?://(.+\.)?voachineseblog\.com(/.*)?$
-^https?://(.+\.)?www\.vpncup\.com(/.*)?$
+^https?://(.+\.)?vpncup\.com(/.*)?$
 ^https?://(.+\.)?waffle1999\.com(/.*)?$
 ^https?://(.+\.)?wallpapercasa\.com(/.*)?$
-^https?://(.+\.)?www\.wan-press\.org(/.*)?$
+^https?://(.+\.)?wan-press\.org(/.*)?$
 ^https?://(.+\.)?wanderinghorse\.net(/.*)?$
 ^https?://(.+\.)?wangafu\.net(/.*)?$
 ^https?://(.+\.)?wangjinbo\.org(/.*)?$
