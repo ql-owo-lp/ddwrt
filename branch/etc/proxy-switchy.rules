@@ -1849,7 +1849,9 @@
 ^https?://(.+\.)?morningsun\.org(/.*)?$
 ^https?://(.+\.)?movabletype\.com(/.*)?$
 ^https?://(.+\.)?moviefap\.com(/.*)?$
-^https?://(.+\.)?www\.moztw\.org(/.*)?$
+^https?://(.+\.)?moztw\.org(/.*)?$
+^https?://(.+\.)?openvpn\.net(/.*)?$
+^https?://(.+\.)?khotyn\.com(/.*)?$
 ^https?://(.+\.)?mp(/.*)?$
 ^https?://(.+\.)?mpettis\.com(/.*)?$
 ^https?://(.+\.)?mrtweet\.com(/.*)?$
