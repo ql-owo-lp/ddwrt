@@ -1305,6 +1305,8 @@
 ^https?://(.+\.)?freebase(libs)?\.com(/.*)?$
 ^https?://cache\.daylife\.com(/.*)?$
 ^https?://(.+\.)?springpad(it)?\.com(/.*)?$
+^https?://(.+\.)?atgfw\.org(/.*)?$
+^https?://(.+\.)?sultansofgame\.com(/.*)?$
 ^https?://t.co/[a-zA-Z]+$
 ^https?://(.+\.)?vimeocdn\.com(/.*)?$
 ^https?://(.+\.)?disconnect\.me(/.*)?$
