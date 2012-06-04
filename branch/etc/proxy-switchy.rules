@@ -1328,6 +1328,7 @@
 ^https?://(.+\.)?change\.org(/.*)?$
 ^https?://(.+\.)?94yu\.net(/.*)?$
 ^https?://(.+\.)?biantailajiao\.in(/.*)?$
+^https?://(.+\.)?appleactionews\.com(/.*)?$
 ^https?://goo\.gl(/.*)?$
 ^https?://api\.pinterest\.com(/.*)?$
 ^https?://(.+\.)?rapidshare\.com(/.*)?$
