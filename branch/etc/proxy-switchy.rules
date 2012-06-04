@@ -1326,6 +1326,8 @@
 ^https?://(.+\.)?ranyunfei\.com(/.*)?$
 ^https?://(.+\.)?(the)?piratebay\.[.a-z]+[a-z]+(/.*)?$
 ^https?://(.+\.)?change\.org(/.*)?$
+^https?://(.+\.)?94yu\.net(/.*)?$
+^https?://(.+\.)?biantailajiao\.in(/.*)?$
 ^https?://goo\.gl(/.*)?$
 ^https?://api\.pinterest\.com(/.*)?$
 ^https?://(.+\.)?rapidshare\.com(/.*)?$
@@ -1334,7 +1336,7 @@
 ^http://www\.google\.com/reader/view/feed/.+$
 ^https?://((?!www|reader|mail|translate).+\.)?google\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?$
-^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
+^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\\?|.+&)q=.*|(images|extern_js)/).*)?$
 ^https?://(.+\.)?wikipedia\.org(/.*)?$
 ^https?://(.+\.)?youthwant\.com\.tw(/.*)?$
 ^https?://(.+\.)?0to255\.com(/.*)?$
