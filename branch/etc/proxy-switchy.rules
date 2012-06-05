@@ -4,6 +4,7 @@
 [wildcard]
 
 [regexp]
+^https?://(.+\.)?kanzhongguo\.com(/.*)?$
 ^https?://(.+\.)?bannedbook\.org(/.*)?$
 ^https?://(.+\.)?ipoock\.com(/.*)?$
 ^https?://(.+\.)?0rz\.tw(/.*)?$
