@@ -94,7 +94,7 @@
 ^https?://(.+\.)?ccc\.de(/.*)?$
 ^https?://(.+\.)?ccdtr\.org(/.*)?$
 ^https?://(.+\.)?ccthere\.com(/.*)?$
-^https?://(.+\.)?cdnews\.com\.tw/cdnews_site/docDetail\.jsp?*
+^https?://(.+\.)?cdnews\.com\.tw/cdnews_site/docDetail\.jsp\?.*$
 ^https?://(.+\.)?cecc\.gov(/.*)?$
 ^https?://(.+\.)?centurys\.net(/.*)?$
 ^https?://(.+\.)?changp\.com(/.*)?$
@@ -301,9 +301,9 @@
 ^https?://(.+\.)?marxist\.com(/.*)?$
 ^https?://(.+\.)?marxists\.org/chinese(/.*)?$
 ^https?://(.+\.)?md-t\.org(/.*)?$
-^https?://(.+\.)?mediafire\.com/?*
+^https?://(.+\.)?mediafire\.com(/.*)?$
 ^https?://(.+\.)?megaporn\.com(/.*)?$
-^https?://(.+\.)?megaupload\.com/?d=*
+^https?://(.+\.)?megaupload\.com/\?d=*
 ^https?://(.+\.)?mesotw\.com/bbs(/.*)?$
 ^https?://(.+\.)?metacafe\.com(/.*)?$
 ^https?://(.+\.)?mihk\.hk/forum(/.*)?$
