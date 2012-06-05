@@ -1,17 +1,18 @@
-#ÔÚÕâÀï¶¨ÒåÒ»Ð©½Å±¾È«¾Ö±äÁ¿
-#Auto-loaderÖ÷Ä¿Â¼ (Main floder)
+#!/bin/sh
+#åœ¨è¿™é‡Œå®šä¹‰ä¸€äº›è„šæœ¬å…¨å±€å˜é‡
+#Auto-loaderä¸»ç›®å½• (Main floder)
 export AUTOLOADER_PATH=/tmp/autoloader
-#»ñÈ¡Ô¶³Ì½Å±¾²¢Ö´ÐÐ(fetch a remote script and execute it immediately)
+#èŽ·å–è¿œç¨‹è„šæœ¬å¹¶æ‰§è¡Œ(fetch a remote script and execute it immediately)
 export AUTOLOADER_FETCH_EXEC=$AUTOLOADER_PATH/fetch-and-exec
 #Fetch only
 export AUTOLOADER_FETCH=$AUTOLOADER_PATH/fetch
-#Ö´ÐÐ½Å±¾(execute a script, before which environment variables are imported) 
+#æ‰§è¡Œè„šæœ¬(execute a script, before which environment variables are imported) 
 export AUTOLOADER_EXEC=$AUTOLOADER_PATH/exec
-#WAN UP½Å±¾(execute when wan's up)
+#WAN UPè„šæœ¬(execute when wan's up)
 export AUTOLOADER_WANUP=$AUTOLOADER_PATH/wanup
-#ÁÙÊ±Ä¿Â¼(directory to store temporary files, use to extract zip/gzip file)
+#ä¸´æ—¶ç›®å½•(directory to store temporary files, use to extract zip/gzip file)
 export AUTOLOADER_TMP=$AUTOLOADER_PATH/tmp
-#½Å±¾Ä¿Â¼(AUTOLOADERs are stored here)
+#è„šæœ¬ç›®å½•(AUTOLOADERs are stored here)
 export AUTOLOADER_DIR=$AUTOLOADER_PATH/script
 #CROND
 export AUTOLOADER_CRON=$AUTOLOADER_PATH/cron.d
@@ -40,7 +41,7 @@ if [ -z "$AUTOLOADER_URL_OPTWARE" ] ; then
   AUTOLOADER_URL_OPTWARE=http://ipkg.nslu2-linux.org/feeds/optware/ddwrt/cross/stable
   AUTOLOADER_URL_OPTWARE_CUST=0
 fi
-#Éú³É½Å±¾Ä¿Â¼
+#ç”Ÿæˆè„šæœ¬ç›®å½•
 mkdir -p $AUTOLOADER_DIR
 mkdir -p $AUTOLOADER_TMP
 mkdir -p $AUTOLOADER_CRON
@@ -87,7 +88,7 @@ done
 EOF
 chmod +x $AUTOLOADER_PATH/firewall.script
 
-#¿ªÊ¼Éú³ÉÎÄ¼þ(Generating sub-scripts)
+#å¼€å§‹ç”Ÿæˆæ–‡ä»¶(Generating sub-scripts)
 cat > $AUTOLOADER_FETCH_EXEC << EOF
 #!/bin/sh
 $AUTOLOADER_FETCH \$1 \$2 \$3
