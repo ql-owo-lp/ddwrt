@@ -1510,7 +1510,7 @@
 ^https?://story\.getprismatic\.com(/.*)?$
 ^https?://t\.co/[0-9a-zA-Z]+$
 ^https?://webstore\.limexgames\.net(/.*)?$
-^https?://www\.google\.com/(?!voice|reader)[^/]+/.*
+^https?://www\.google\.com/(?!reader)[^/]+/.*
 ^https://www\.google\.com/reader(/.*)?$
 ^http://www\.google\.com/reader/view/feed/.+$
 ^https?://((?!www|reader|mail|translate).+\.)?google\.[.a-z]+[a-z](/.*)?$
