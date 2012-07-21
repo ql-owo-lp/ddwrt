@@ -6,7 +6,8 @@
 [regexp]
 ^https?://(.+\.)?wenxuecity\.com(/.*)?$
 ^https?://(.+\.)?imgaft\.com(/.*)?$
-^https?://(.+\.)?xyz\.org(/.*)?$
+^https?://(.+\.)?xys\.org(/.*)?$
+^https?://(.+\.)?chinesenewsnet\.com(/.*)?$
 ^https?://(.+\.)?dwnews\.com(/.*)?$
 ^https?://(.+\.)?(getpocket|readitlater)\.io(/.*)?$
 ^https?://(.+\.)?(the)?piratebay\.[.a-z]+[a-z]+(/.*)?$
