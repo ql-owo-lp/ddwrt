@@ -4,6 +4,10 @@
 [wildcard]
 
 [regexp]
+^https?://(.+\.)?wenxuecity\.com(/.*)?$
+^https?://(.+\.)?imgaft\.com(/.*)?$
+^https?://(.+\.)?xyz\.org(/.*)?$
+^https?://(.+\.)?dwnews\.com(/.*)?$
 ^https?://(.+\.)?(getpocket|readitlater)\.io(/.*)?$
 ^https?://(.+\.)?(the)?piratebay\.[.a-z]+[a-z]+(/.*)?$
 ^https?://(.+\.)?0rz\.tw(/.*)?$
