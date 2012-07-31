@@ -1520,7 +1520,7 @@
 ^http://www\.google\.com/reader/view/feed/.+$
 ^https?://((?!www|reader|mail|translate).+\.)?google\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)\.com(/.*)?$
-^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\\?|.+&)q=.*|(images|extern_js)/).*)?$
+^https?://((www|encrypted|ipv6)\.)?google\.[.a-z]+[a-z]/((((search)?\?|.+&)q=.*|(images|extern_js)/).*)?$
 ^https?://(.+\.)?ytimg\.com(/.*)?$
 ^https?://(.+\.)?youtube(-nocookie)?\.([a-z][.a-z]+[a-z])(/.*)?$
 ^https?://youtu\.be(/.*)?$
