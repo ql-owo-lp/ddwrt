@@ -312,6 +312,7 @@
 ^https?://(.+\.)?civicparty\.hk(/.*)?$
 ^https?://(.+\.)?civilhrfront\.org(/.*)?$
 
+^https?://(.+\.)?gmail\.com(/.*)?$
 ^https?://(.+\.)?ck101\.com(/.*)?$
 ^https?://(.+\.)?cl\.ly(/.*)?$
 ^https?://(.+\.)?classicalguitarblog\.net(/.*)?$
