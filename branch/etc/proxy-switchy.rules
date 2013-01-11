@@ -311,7 +311,7 @@
 ^https?://(.+\.)?citizenlab\.org(/.*)?$
 ^https?://(.+\.)?civicparty\.hk(/.*)?$
 ^https?://(.+\.)?civilhrfront\.org(/.*)?$
-^https?://(.+\.)?nytimes\.com(/.*)?$
+^https?://(.+\.)?nyt(imes)?\.com(/.*)?$
 ^https?://(.+\.)?bloomberg\.com(/.*)?$
 ^https?://(.+\.)?gmail\.com(/.*)?$
 ^https?://(.+\.)?ck101\.com(/.*)?$
