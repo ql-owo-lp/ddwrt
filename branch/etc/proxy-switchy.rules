@@ -1533,4 +1533,5 @@
 ^https?://(.+\.)?gstatic\.com(/.*)?$
 ^https?://(.+\.)?blogger\.com(/.*)?$
 ^https?://(.+\.)?(app|blog)spot\.com(/.*)?$
+^https?://(.+\.)?reuters.com(/.*)?$
 #END
