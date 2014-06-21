@@ -284,6 +284,7 @@
 ^https?://(.+\.)?chinachannel\.hk(/.*)?$
 ^https?://(.+\.)?chinacomments\.org(/.*)?$
 ^https?://(.+\.)?chinadigitaltimes\.net(/.*)?$
+^https?://(.+\.)?chrome\.com(/.*)?$
 ^https?://(.+\.)?chinaeweekly\.com(/.*)?$
 ^https?://(.+\.)?chinafreepress\.org(/.*)?$
 ^https?://(.+\.)?chinagfw\.org(/.*)?$
@@ -1517,7 +1518,7 @@
 ^https?://story\.getprismatic\.com(/.*)?$
 ^https?://t\.co/[0-9a-zA-Z]+$
 ^https?://webstore\.limexgames\.net(/.*)?$
-^https?://(.+\.)?google(-analytics|apis|code|usercontent|pages|tagservices|video|syndication|sile|picasaweb|accounts|id|apps|blogsearch)?\.[.a-z]+[a-z](/.*)?$
+^https?://(.+\.)?google(-?analytics|apis|maps|scholar|bot|ratings|commerce|e?arth|code|drive|source|usercontent|pages|tagservices|video|syndication|pagecreator|picasaweb|accounts|id|apps|blogsearch)?\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?ytimg\.com(/.*)?$
 ^https?://(.+\.)?youtube(-nocookie)?\.([a-z][.a-z]+[a-z])(/.*)?$
 ^https?://youtu\.be(/.*)?$
