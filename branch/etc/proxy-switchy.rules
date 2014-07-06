@@ -1522,7 +1522,7 @@
 ^https?://(.+\.)?ytimg\.com(/.*)?$
 ^https?://(.+\.)?youtube(-nocookie)?\.([a-z][.a-z]+[a-z])(/.*)?$
 ^https?://youtu\.be(/.*)?$
-^https?://(.+\.)?facebook\.com(/.*)?$
+^https?://(.+\.)?facebook\.[.a-z]+[a-z](/.*)?$
 ^https?://(.+\.)?fbcdn\.net(/.*)?$
 ^https?://fbcdn-profile-a\.akamaihd\.net(/.*)?$
 ^https?://goo\.gl(/.*)?$
