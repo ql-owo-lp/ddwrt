@@ -1139,7 +1139,7 @@
 ^https?:\/\/(.+\.)?sitemaps\.org(\/.*)?$
 ^https?:\/\/(.+\.)?sjum\.cn(\/.*)?$
 ^https?:\/\/(.+\.)?skimtube\.com(\/.*)?$
-^https?:\/\/(.+\.)?skype\.com(\/.*)?$
+^https?:\/\/(.+\.)?skype(assets)?\.com(\/.*)?$
 ^https?:\/\/(.+\.)?slavasoft\.com(\/.*)?$
 ^https?:\/\/(.+\.)?slheng\.com(\/.*)?$
 ^https?:\/\/(.+\.)?slinkset\.com(\/.*)?$
