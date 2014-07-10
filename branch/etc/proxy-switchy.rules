@@ -1537,4 +1537,5 @@
 ^https?:\/\/(.+\.)?scorecardresearch\.com(\/.*)?$
 ^https?:\/\/(.+\.)?nextmedia\.com(\/.*)?$
 ^https?:\/\/(.+\.)?chartbeat\.com(\/.*)?$
+^https?:\/\/(.+\.)?qx\.net(\/.*)?$
 #END
