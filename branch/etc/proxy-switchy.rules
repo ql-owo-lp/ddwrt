@@ -154,6 +154,7 @@
 ^https?:\/\/(.+\.)?bbcchinese\.com(\/.*)?$
 ^https?:\/\/(.+\.)?bbg\.gov(\/.*)?$
 ^https?:\/\/(.+\.)?bbs\.mychat\.to(\/.*)?$
+^https?:\/\/(.+\.)?feedburner\.com(\/.*)?$
 ^https?:\/\/(.+\.)?bbsfeed\.com(\/.*)?$
 ^https?:\/\/(.+\.)?bcc\.com\.tw/board(\/.*)?$
 ^https?:\/\/(.+\.)?bcchinese\.net(\/.*)?$
