@@ -18,6 +18,7 @@
 ^https?:\/\/(.+\.)?wenxuecity\.com(\/.*)?$
 ^https?:\/\/(.+\.)?imgaft\.com(\/.*)?$
 ^https?:\/\/(.+\.)?xys\.org(\/.*)?$
+^https?:\/\/(.+\.)?deltadentalins\.com(\/.*)?$
 ^https?:\/\/(.+\.)?cloudflare\.com(\/.*)?$
 ^https?:\/\/(.+\.)?chinesenewsnet\.com(\/.*)?$
 ^https?:\/\/(.+\.)?dwnews\.com(\/.*)?$
