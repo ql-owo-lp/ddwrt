@@ -17,6 +17,7 @@
 ^https?:\/\/(.+\.)?(app|blog)spot\.com(\/.*)?$
 ^https?:\/\/(.+\.)?wenxuecity\.com(\/.*)?$
 ^https?:\/\/(.+\.)?imgaft\.com(\/.*)?$
+^https?:\/\/(.+\.)?mint\.com(\/.*)?$
 ^https?:\/\/(.+\.)?xys\.org(\/.*)?$
 ^https?:\/\/(.+\.)?deltadentalins\.com(\/.*)?$
 ^https?:\/\/(.+\.)?cloudflare\.com(\/.*)?$
