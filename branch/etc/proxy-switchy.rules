@@ -29,6 +29,7 @@
 ^https?:\/\/(.+\.)?0to255\.com(\/.*)?$
 ^https?:\/\/(.+\.)?1-apple\.com\.tw(\/.*)?$
 ^https?:\/\/(.+\.)?12bet\.com(\/.*)?$
+^https?:\/\/(.+\.)?fandango\.com(\/.*)?$
 ^https?:\/\/(.+\.)?golang\.org(\/.*)?$
 ^https?:\/\/(.+\.)?12vpn\.com(\/.*)?$
 ^https?:\/\/(.+\.)?173ng\.com(\/.*)?$
