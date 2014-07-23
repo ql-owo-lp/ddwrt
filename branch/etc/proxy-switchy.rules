@@ -22,6 +22,7 @@
 ^https?:\/\/(.+\.)?xys\.org(\/.*)?$
 ^https?:\/\/(.+\.)?deltadentalins\.com(\/.*)?$
 ^https?:\/\/(.+\.)?cloudflare\.com(\/.*)?$
+^https?:\/\/(.+\.)?chotee\.com(\/.*)?$
 ^https?:\/\/(.+\.)?chinesenewsnet\.com(\/.*)?$
 ^https?:\/\/(.+\.)?dwnews\.com(\/.*)?$
 ^https?:\/\/(.+\.)?(getpocket|readitlater)\.io(\/.*)?$
