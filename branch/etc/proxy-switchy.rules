@@ -20,6 +20,7 @@
 ^https?:\/\/(.+\.)?imgaft\.com(\/.*)?$
 ^https?:\/\/(.+\.)?mint\.com(\/.*)?$
 ^https?:\/\/(.+\.)?xys\.org(\/.*)?$
+^https?:\/\/(.+\.)?bit\.ly(\/.*)?$
 ^https?:\/\/(.+\.)?deltadentalins\.com(\/.*)?$
 ^https?:\/\/(.+\.)?cloudflare\.com(\/.*)?$
 ^https?:\/\/(.+\.)?chotee\.com(\/.*)?$
