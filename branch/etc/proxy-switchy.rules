@@ -23,6 +23,7 @@
 ^https?:\/\/(.+\.)?bit\.ly(\/.*)?$
 ^https?:\/\/(.+\.)?deltadentalins\.com(\/.*)?$
 ^https?:\/\/(.+\.)?cloudflare\.com(\/.*)?$
+^https?:\/\/(.+\.)?kickstarter\.com(\/.*)?$
 ^https?:\/\/(.+\.)?chotee\.com(\/.*)?$
 ^https?:\/\/(.+\.)?chinesenewsnet\.com(\/.*)?$
 ^https?:\/\/(.+\.)?dwnews\.com(\/.*)?$
