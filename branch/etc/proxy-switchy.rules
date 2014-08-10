@@ -22,6 +22,7 @@
 ^https?:\/\/(.+\.)?mint\.com(\/.*)?$
 ^https?:\/\/(.+\.)?xys\.org(\/.*)?$
 ^https?:\/\/(.+\.)?bit\.ly(\/.*)?$
+^https?:\/\/(.+\.)?slideshare\.net(\/.*)?$
 ^https?:\/\/(.+\.)?deltadentalins\.com(\/.*)?$
 ^https?:\/\/(.+\.)?cloudflare\.com(\/.*)?$
 ^https?:\/\/(.+\.)?kickstarter\.com(\/.*)?$
