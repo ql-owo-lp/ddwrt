@@ -12,6 +12,7 @@
 ^https?:\/\/(.+\.)?fbcdn\.net(\/.*)?$
 ^https?:\/\/fbcdn-profile-a\.akamaihd\.net(\/.*)?$
 ^https?:\/\/goo\.gl(\/.*)?$
+^https?:\/\/socialsecurity\.gov(\/.*)?$
 ^https?:\/\/(.+\.)?leagueoflegends\.com(\/.*)?$
 ^https?:\/\/(.+\.)?gstatic\.com(\/.*)?$
 ^https?:\/\/(.+\.)?blogger\.com(\/.*)?$
