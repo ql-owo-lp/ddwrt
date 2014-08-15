@@ -9,6 +9,7 @@
 ^https?:\/\/(.+\.)?youtube(-nocookie)?\.([a-z][.a-z]+[a-z])(\/.*)?$
 ^https?:\/\/youtu\.be(\/.*)?$
 ^https?:\/\/(.+\.)?facebook\.[.a-z]+[a-z](\/.*)?$
+^https?:\/\/(.+\.)?wireshark\.org(\/.*)?$
 ^https?:\/\/(.+\.)?fbcdn\.net(\/.*)?$
 ^https?:\/\/fbcdn-profile-a\.akamaihd\.net(\/.*)?$
 ^https?:\/\/goo\.gl(\/.*)?$
