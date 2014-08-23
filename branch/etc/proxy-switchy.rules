@@ -1551,4 +1551,5 @@
 ^https?:\/\/(.+\.)?nextmedia\.com(\/.*)?$
 ^https?:\/\/(.+\.)?chartbeat\.com(\/.*)?$
 ^https?:\/\/(.+\.)?qx\.net(\/.*)?$
+^https?:\/\/(.+\.)?mitbbs\.com(\/.*)?$
 #END
