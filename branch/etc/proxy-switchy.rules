@@ -16,6 +16,9 @@
 ^https?:\/\/socialsecurity\.gov(\/.*)?$
 ^https?:\/\/(.+\.)?leagueoflegends\.com(\/.*)?$
 ^https?:\/\/(.+\.)?gstatic\.com(\/.*)?$
+^https?:\/\/(.+\.)?cloudfront\.net(\/.*)?$
+^https?:\/\/(.+\.)?optimizely\.com(\/.*)?$
+^https?:\/\/(.+\.)?cloudflare\.com(\/.*)?$
 ^https?:\/\/(.+\.)?blogger\.com(\/.*)?$
 ^https?:\/\/(.+\.)?feedly\.com(\/.*)?$
 ^https?:\/\/(.+\.)?(app|blog)spot\.com(\/.*)?$
@@ -1406,6 +1409,7 @@
 ^https?:\/\/(.+\.)?viki\.com(\/.*)?$
 ^https?:\/\/(.+\.)?vimeo\.com(\/.*)?$
 ^https?:\/\/(.+\.)?vimeocdn\.com(\/.*)?$
+^https?:\/\/(.+\.)?kissmetrics\.com(\/.*)?$
 ^https?:\/\/(.+\.)?vincnd\.com(\/.*)?$
 ^https?:\/\/(.+\.)?vinniev\.com(\/.*)?$
 ^https?:\/\/(.+\.)?vmixcore\.com(\/.*)?$
