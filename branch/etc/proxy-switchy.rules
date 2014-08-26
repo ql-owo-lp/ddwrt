@@ -26,6 +26,7 @@
 ^https?:\/\/(.+\.)?imgaft\.com(\/.*)?$
 ^https?:\/\/(.+\.)?mint\.com(\/.*)?$
 ^https?:\/\/(.+\.)?xys\.org(\/.*)?$
+^https?:\/\/(.+\.)?twister.net.co(\/.*)?$
 ^https?:\/\/(.+\.)?bit\.ly(\/.*)?$
 ^https?:\/\/(.+\.)?slideshare\.net(\/.*)?$
 ^https?:\/\/(.+\.)?deltadentalins\.com(\/.*)?$
