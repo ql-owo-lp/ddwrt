@@ -1557,4 +1557,5 @@
 ^https?:\/\/(.+\.)?chartbeat\.com(\/.*)?$
 ^https?:\/\/(.+\.)?qx\.net(\/.*)?$
 ^https?:\/\/(.+\.)?mitbbs\.com(\/.*)?$
+^https?:\/\/(.+\.)?westernunion\.com(\/.*)?$
 #END
